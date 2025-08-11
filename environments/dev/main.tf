@@ -15,7 +15,7 @@ variable "key_name" {
 
 variable "subnet_id" {
   type    = string
-  default = "subnet-01b9ffbe035dfd022"
+  default = "subnet-01dc3ce3f3759b5d5"
 }
 
 # Find latest Amazon Linux 2 AMI for the region
